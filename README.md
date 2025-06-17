@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam!</h1>
-<h3 align="center">I'm a passionate developer focused on building fin-tech / quant solutions driven by my expertise in software engineering.</h3>
+<h3 align="center">I'm a passionate developer focused on building fintech / quant solutions driven by my expertise in software engineering.</h3>
 
-- 🔭 I’m currently working on Summit! (( not yet open source 😉 ))
+- 🔭 I’m currently working on K0!
 
 - 🌱 I’m currently learning **AWS + Terraform**
 
