@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS + Terraform**
 
-- 🔭 **Backend Lead** @ Watstreet. 2x **Ford** SWE
+- 🔭 **Backend Lead** @ Watstreet. SWE @ **Carta**, 2x **Ford** SWE
 
 - 📫 How to reach me **s2georgi@uwaterloo.ca**
 
