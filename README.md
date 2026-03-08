@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on Breakout!
 
-- 🌱 I’m currently learning **Terraform + C++**
+- 🌱 I’m currently learning **Terraform & C++**
 
-- 🔭 **Backend Lead** @ Watstreet. SWE @ **Slash**, Preve @ **Carta**
+- 🔭 **Backend Lead** @ Watstreet. SWE @ **Slash**, Prev @ **Carta**
 
 - 📫 How to reach me **s2georgi@uwaterloo.ca**
 
